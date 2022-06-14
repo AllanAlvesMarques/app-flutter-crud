@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "cadastrousuariosref",
+            "cwd": "cadastrousuariosref",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "cadastrousuariosref (profile mode)",
+            "cwd": "cadastrousuariosref",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "cadastrousuariosref (release mode)",
+            "cwd": "cadastrousuariosref",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
